@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 1024 1024" fill="none">
+  <rect width="1024" height="1024" rx="230" fill="#203B32"/>
+  <g transform="translate(60.64 287.87) scale(5.73)">
+  <defs>
+    <mask id="rt-cut-88" maskUnits="userSpaceOnUse" x="-20" y="-20" width="200" height="120">
+      <rect x="-20" y="-20" width="200" height="120" fill="#fff"/>
+      <path d="M112.4 14.5 C109 21 106.6 28.5 108 35.8 C109.2 42 116.6 43.2 119.6 37.6 C123 31.4 124.2 21 122.2 14.5" fill="none" stroke="#000" stroke-width="3.6" stroke-linecap="round"/>
+      <circle cx="129.5" cy="18.5" r="2.3" fill="#000"/>
+      <circle cx="121.5" cy="41.5" r="6.1" fill="#000"/>
+    </mask>
+  </defs>
+  <g fill="#F6F3EB">
+    <g mask="url(#rt-cut-88)">
+      <path d="M29.5 41 C19 38.5 11.5 32 6.8 23.2 C5.9 21.2 8.4 19.8 9.9 21.4 C15.5 27.8 22.5 31.6 31 33.8 Z"/>
+      <rect x="45.5" y="48" width="8" height="24" rx="4"/><ellipse cx="50.78" cy="69.7" rx="4.8" ry="2.3"/><rect x="90" y="50" width="8" height="22" rx="4"/><ellipse cx="95.28" cy="69.7" rx="4.8" ry="2.3"/>
+      <path d="M39 31 H97 C108.5 31 118.5 39.5 118 49 C117.5 57.5 109.5 61.5 99.5 61.5 H39 A15.25 15.25 0 0 1 39 31 Z"/>
+      <path d="M93 34 L113 15 L131.5 29 C125 35 120.5 41.5 118 49.5 L104 51 Z"/>
+      <path d="M112 21 A12 12 0 1 1 136 21 A12 12 0 1 1 112 21 Z"/>
+      <path d="M124 9.5 C133 10 141 15.5 148.5 22.5 C152.5 26 151.5 31.5 146.5 32 L127 33.5 Z"/>
+      <path d="M112.5 12 C109 19.5 106.6 28.5 108 35.8 C109.2 42 116.6 43.2 119.6 37.6 C123 31.4 124.2 21 121.8 12 Z"/>
+      <rect x="35" y="48" width="9" height="24" rx="4.5"/><ellipse cx="40.94" cy="69.7" rx="5.3999999999999995" ry="2.3"/><rect x="100.5" y="50" width="9" height="22" rx="4.5"/><ellipse cx="106.44" cy="69.7" rx="5.3999999999999995" ry="2.3"/>
+    </g>
+    <circle cx="121.5" cy="41.5" r="4.2" fill="#E9D69B"/>
+  </g></g>
+</svg>

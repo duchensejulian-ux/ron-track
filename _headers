@@ -1,0 +1,4 @@
+/*.mjs
+  Content-Type: text/javascript; charset=utf-8
+/app/sw.js
+  Cache-Control: no-cache
